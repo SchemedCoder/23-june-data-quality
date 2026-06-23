@@ -1,0 +1,12 @@
+product_id,product_name,category,price
+PR001,Laptop,Electronics,65000
+PR002,Mobile,Electronics,25000
+PR003,Headphones,Electronics,2000
+PR004,Shoes,Fashion,3000
+PR005,Watch,Accessories,5000
+PR006,T-Shirt,Fashion,800
+PR007,Tablet,Electronics,35000
+PR008,Backpack,Accessories,2500
+PR009,Smartwatch,Electronics,15000
+PR010,Speaker,Electronics,-3000
+PR011,,Accessories,1800
