@@ -1,0 +1,25 @@
+{
+  "customers": [
+    "customer_id",
+    "customer_name",
+    "email"
+  ],
+
+  "orders": [
+    "order_id",
+    "customer_id",
+    "order_amount"
+  ],
+
+  "payments": [
+    "payment_id",
+    "order_id",
+    "payment_amount"
+  ],
+
+  "products": [
+    "product_id",
+    "product_name",
+    "price"
+  ]
+}
