@@ -1,0 +1,29 @@
+{
+  "orders": {
+    "order_amount": {
+      "rule": "greater_than",
+      "value": 0
+    }
+  },
+
+  "payments": {
+    "payment_amount": {
+      "rule": "greater_than",
+      "value": 0
+    }
+  },
+
+  "products": {
+    "price": {
+      "rule": "greater_than",
+      "value": 0
+    }
+  },
+
+  "late_arrival": {
+    "payments": {
+      "date_column": "payment_date",
+      "allowed_days": 30
+    }
+  }
+}
