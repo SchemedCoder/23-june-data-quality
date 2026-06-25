@@ -1,0 +1,6 @@
+dataset_name,issue,severity,logged_at
+customers,Low Quality Score,HIGH,2026-06-25 10:10:00
+orders,Low Quality Score,HIGH,2026-06-25 10:10:05
+payments,Low Quality Score,HIGH,2026-06-25 10:10:10
+payments,High Failed Rows,HIGH,2026-06-25 10:10:12
+products,Low Quality Score,HIGH,2026-06-25 10:10:15
