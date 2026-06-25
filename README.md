@@ -71,48 +71,6 @@ Source Files (CSV / APIs / DB)
 | Testing | Pytest |
 | CI/CD | GitHub Actions |
 
----
-
-## Repository Structure
-
-```text
-data-quality-monitoring-platform/
-
-├── README.md
-├── requirements.txt
-├── .env.example
-
-├── data/
-│   ├── customers.csv
-│   ├── orders.csv
-│   ├── payments.csv
-│   └── products.csv
-
-├── outputs/
-│   ├── data_quality_report.csv
-│   ├── anomaly_report.csv
-│   └── incident_log.csv
-
-├── rules/
-│   ├── schema_rules.json
-│   ├── null_rules.json
-│   └── business_rules.json
-
-├── scripts/
-│   ├── quality_engine.py
-│   ├── anomaly_detector.py
-│   └── alert_manager.py
-
-├── sql/
-│   ├── bronze.sql
-│   ├── silver.sql
-│   ├── quality_metrics.sql
-│   └── dashboard_queries.sql
-
-├── tests/
-├── docs/
-└── .github/
-```
 
 ---
 
