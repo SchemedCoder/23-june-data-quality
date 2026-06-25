@@ -1,0 +1,10 @@
+dataset_name,check_type,failed_rows,total_rows,quality_score,severity,run_timestamp
+customers,schema_check,0,12,100.0,LOW,2026-06-25 10:00:00
+customers,null_check,1,12,91.67,LOW,2026-06-25 10:00:00
+customers,duplicate_check,1,12,91.67,LOW,2026-06-25 10:00:00
+orders,schema_check,0,13,100.0,LOW,2026-06-25 10:00:00
+orders,duplicate_check,1,13,92.31,LOW,2026-06-25 10:00:00
+orders,business_rule_check,1,13,92.31,LOW,2026-06-25 10:00:00
+payments,business_rule_check,1,12,91.67,LOW,2026-06-25 10:00:00
+payments,late_arrival_check,12,12,0.0,HIGH,2026-06-25 10:00:00
+products,business_rule_check,1,11,90.91,LOW,2026-06-25 10:00:00
