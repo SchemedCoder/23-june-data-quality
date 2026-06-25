@@ -1,0 +1,6 @@
+dataset_name,issue,metric_value,severity
+customers,Low Quality Score,91.67,HIGH
+orders,Low Quality Score,92.31,HIGH
+payments,Low Quality Score,0.0,HIGH
+payments,High Failed Rows,12,HIGH
+products,Low Quality Score,90.91,HIGH
