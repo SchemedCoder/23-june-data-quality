@@ -1,1 +1,5 @@
-
+pyspark==3.5.1
+delta-spark==3.1.0
+pandas>=2.0.0
+pytest>=7.0.0
+python-dotenv>=1.0.0
